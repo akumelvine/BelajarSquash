@@ -1,0 +1,2 @@
+# BelajarSquash
+Metode belajar Squash
